@@ -16,7 +16,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 6. (Optional) Set your banner image
-    "banner_picture": "https://i.seadn.io/gae/PR10PhUcxaDBYU_Xcf0bCSlYh0Yy0AClDHxBAEGptIMsIv3VrD5WHPjljRNJqQARMvuWFOQwA8F1q_Jxg0SfEo69GRQPuq99UTS4?auto=format&w=1000",
+    "banner_picture": "https://i.seadn.io/gae/nyjM89EUyLahpbfk4TKkQ3J4D7VigGWDka-IgbgT1Mge52ZlkkEf8EwIIgH4gq2iUjsJQi6zkaztdC0a0pcUqA0jeIhxNGzwtDbsfA?auto=format",
   },
 
   // Supported networks - just for your reference
