@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css",
-    "main.js": "/nft-dashboard-template/static/js/main.9f93c220.chunk.js",
-    "main.js.map": "/nft-dashboard-template/static/js/main.9f93c220.chunk.js.map",
-    "runtime-main.js": "/nft-dashboard-template/static/js/runtime-main.c210edee.js",
-    "runtime-main.js.map": "/nft-dashboard-template/static/js/runtime-main.c210edee.js.map",
-    "static/js/2.cee63afe.chunk.js": "/nft-dashboard-template/static/js/2.cee63afe.chunk.js",
-    "static/js/2.cee63afe.chunk.js.map": "/nft-dashboard-template/static/js/2.cee63afe.chunk.js.map",
-    "index.html": "/nft-dashboard-template/index.html",
-    "static/css/main.f48c2a0c.chunk.css.map": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css.map",
-    "static/js/2.cee63afe.chunk.js.LICENSE.txt": "/nft-dashboard-template/static/js/2.cee63afe.chunk.js.LICENSE.txt",
-    "static/media/Back.8af6b2fe.svg": "/nft-dashboard-template/static/media/Back.8af6b2fe.svg",
-    "static/media/App.css": "/nft-dashboard-template/static/media/alert.6e5425f9.svg",
-    "static/media/background.be7e30c5.png": "/nft-dashboard-template/static/media/background.be7e30c5.png",
-    "static/media/banner.e7e48588.png": "/nft-dashboard-template/static/media/banner.e7e48588.png",
-    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nft-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
-    "static/media/logo.00ecc9d5.svg": "/nft-dashboard-template/static/media/logo.00ecc9d5.svg"
+    "main.css": "/WODS-NTF-Covalent/static/css/main.f6cc4213.chunk.css",
+    "main.js": "/WODS-NTF-Covalent/static/js/main.e3826393.chunk.js",
+    "main.js.map": "/WODS-NTF-Covalent/static/js/main.e3826393.chunk.js.map",
+    "runtime-main.js": "/WODS-NTF-Covalent/static/js/runtime-main.65a07318.js",
+    "runtime-main.js.map": "/WODS-NTF-Covalent/static/js/runtime-main.65a07318.js.map",
+    "static/js/2.0a831917.chunk.js": "/WODS-NTF-Covalent/static/js/2.0a831917.chunk.js",
+    "static/js/2.0a831917.chunk.js.map": "/WODS-NTF-Covalent/static/js/2.0a831917.chunk.js.map",
+    "index.html": "/WODS-NTF-Covalent/index.html",
+    "static/css/main.f6cc4213.chunk.css.map": "/WODS-NTF-Covalent/static/css/main.f6cc4213.chunk.css.map",
+    "static/js/2.0a831917.chunk.js.LICENSE.txt": "/WODS-NTF-Covalent/static/js/2.0a831917.chunk.js.LICENSE.txt",
+    "static/media/Back.8af6b2fe.svg": "/WODS-NTF-Covalent/static/media/Back.8af6b2fe.svg",
+    "static/media/App.css": "/WODS-NTF-Covalent/static/media/alert.6e5425f9.svg",
+    "static/media/background.be7e30c5.png": "/WODS-NTF-Covalent/static/media/background.be7e30c5.png",
+    "static/media/banner.e7e48588.png": "/WODS-NTF-Covalent/static/media/banner.e7e48588.png",
+    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/WODS-NTF-Covalent/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
+    "static/media/logo.00ecc9d5.svg": "/WODS-NTF-Covalent/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c210edee.js",
-    "static/js/2.cee63afe.chunk.js",
-    "static/css/main.f48c2a0c.chunk.css",
-    "static/js/main.9f93c220.chunk.js"
+    "static/js/runtime-main.65a07318.js",
+    "static/js/2.0a831917.chunk.js",
+    "static/css/main.f6cc4213.chunk.css",
+    "static/js/main.e3826393.chunk.js"
   ]
 }
